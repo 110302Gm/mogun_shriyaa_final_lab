@@ -1,0 +1,19 @@
+css
+box{
+    width: 150px;
+    height: 150px;
+    background-color: aliceblue;
+    image-rendering: optimizeQuality;
+    cursor: pointer;
+    image-resolution: 1080 https://www.google.com/search?q=fifa+images&tbm=isch&chips=q:fifa+images,g_1:world+cup:8x-bX3zpCI0%3D&rlz=1C1CHBD_enMU882MU882&hl=en-GB&sa=X&ved=2ahUKEwjeqMqs1Nv7AhWDn3IEHaCtBa4Q4lYoAHoECAEQJQ&biw=1519&bih=688#imgrc=XMRUwQ5LapFt3M;
+    
+
+}
+
+.box:hover {
+    border-radius: 50%;
+    background-color: aquamarine;
+    transform: rotate(176deg) scale(1.5);
+    image-resolution: https://www.google.com/search?q=fifa+images&tbm=isch&hl=en-GB&chips=q:fifa+images,g_1:world+cup:8x-bX3zpCI0%3D,online_chips:qatar:s0gvDXYVECY%3D,online_chips:football+stadium:si5wBaLm2r0%3D&rlz=1C1CHBD_enMU882MU882&sa=X&ved=2ahUKEwi2vdmk2Nv7AhX7GFkFHYs1CHMQ4lYoAXoECAEQLQ&biw=1519&bih=688#imgrc=k3utQ8hHuGVPGM;
+
+ }
